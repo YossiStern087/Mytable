@@ -1,0 +1,102 @@
+
+#table1 {
+   text-align: center;
+   border: solid black;
+   table-layout: fixed;
+   width:100% ;
+   
+}
+ #table1:hover { background-image: url(windows.jpg);
+   background-size:1590px 300px;
+   background-repeat: no-repeat;
+   
+  
+ }
+
+
+#table1 th {
+    border: solid green;
+    color: crimson;
+}
+#table1 td {
+    border: solid rebeccapurple;
+    color: crimson;
+}
+#table1 th:hover {
+    background-color: black;
+}
+#table2 {
+    text-align: center;
+   border: solid black;
+   table-layout: fixed;
+   width:100% ;
+    margin-top: 20px;
+}
+#table2 th{
+    border:solid black;
+}
+#table2 td {
+    border:solid black;
+
+}
+#table2 td:hover{
+    font-weight: bold;
+}
+iframe {
+    width: 1500px;
+    height: 600px;
+    background-image: url(sport5.jpg);
+}
+#tim1 {
+border-color: aquamarine;
+font-size:large ;
+}
+#sun1 {
+    border-color: cadetblue;
+    background-color: violet;
+    color: blue;
+
+}
+#mon1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#tus1 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: cornflowerblue;
+}
+#wen1 {
+    border: solid tomato;
+    border-radius: 8px;
+}
+#thu1 {
+    font-size: x-large;
+    font-family: serif;
+}
+#tim2 {
+    color: lawngreen;
+    text-align: left;
+}
+#sun2 {
+    background-color: sienna;
+    color: blue;
+    font-size: small;
+}
+#mon2 {
+    text-align: right;
+}
+#tus2 {
+    border-radius: 8px;
+    font-family: fantasy;
+}
+#wen2 {
+    background-color: yellow;
+}
+#thu2 {
+    background-color: teal;  
+}
+time {
+    font-weight: bold;
+}
+.trt2 {
+    background-color: #ccc;
+}
